@@ -1,1 +1,2 @@
 # minetest-example-mod
+# ehltype
